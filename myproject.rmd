@@ -5,9 +5,13 @@
 In this project we clean this data using R codes.*
 
 #ACTIVITIES OF DIFFERENT EXERCISES CONDUCTED 
-![](image/images.jpg),![](image/phone.jpg),![](image/walking.jpg)
-![](image/standing.jpg),![](image/upndown.jpg),![](image/sitting.jpg)
-![](image/laying.jpg)
+![](image/images.jpg)
+![](image/phone.jpg)
+![](image/walking.jpg)
+![](image/standing.jpg)
+![](image/upndown.jpg)
+![](image/sitting.jpg)
+![](image/laying1.jpg)
 
 
 
