@@ -1,10 +1,11 @@
 # PROJECT
 ----------
 
-*The data for this project is collected from  Human Activity Recognition database built from the recordings of 30 subjects performing 6 activities of daily living.
+#*The data for this project is collected from [Human Activity Recognition database](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) built from the recordings of 30 subjects performing 6 activities of daily living.
 In this project we clean this data using R codes.*
+![](images.jpg)(images(1).jpg)
 
-#Activites are different exercises conducted#
+#Activites are different exercises conducted
 
 
 ```r
@@ -3296,26 +3297,6 @@ tail(features_columns)
 
 ```r
 library(dplyr)
-```
-
-```
-## 
-## Attaching package: 'dplyr'
-```
-
-```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-```
-
-```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
-```
-
-```r
 tab1=inner_join(activity_columns,activities,by=c("act_id"="code"))
 
 test.data.original=cbind(subjects,activity_columns,features_columns)
