@@ -3,7 +3,10 @@
 
 #*The data for this project is collected from [Human Activity Recognition database](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) built from the recordings of 30 subjects performing 6 activities of daily living.
 In this project we clean this data using R codes.*
-![](images.jpg)(images(1).jpg)
+
+
+![](images.jpg)
+![](images(1).jpg)
 
 #Activites are different exercises conducted
 
