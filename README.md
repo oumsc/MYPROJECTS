@@ -5,8 +5,8 @@
 In this project we clean this data using R codes.*
 
 
-![](images.jpg)
-![](images(1).jpg)
+![](image/images.jpg)
+![](image/images(1).jpg)
 
 #Activites are different exercises conducted
 
