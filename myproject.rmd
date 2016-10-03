@@ -4,11 +4,12 @@
 #*The data for this project is collected from [Human Activity Recognition database](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) built from the recordings of 30 subjects performing 6 activities of daily living.
 In this project we clean this data using R codes.*
 
+#ACTIVITIES OF DIFFERENT EXERCISES CONDUCTED 
+![](image/images.jpg),![](image/phone.jpg),![](image/walking.jpg)
+![](image/standing.jpg),![](image/upndown.jpg),![](image/sitting.jpg)
+![](image/laying.jpg)
 
-![](image/images.jpg)
-![](image/images(1).jpg)
 
-#Activites are different exercises conducted
 
 ```{r}
 activities <- read.table("UCI_HAR_Dataset/activity_labels.txt",sep="",header=FALSE)
